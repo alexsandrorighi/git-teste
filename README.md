@@ -7,4 +7,5 @@ Esse arquivo serve para uma boa leitura
 Teste 2
 ___
 Versionamento
-...
+
+Git tem funcionado muito bem
