@@ -2,5 +2,8 @@
 Esse arquivo serve para uma boa leitura
 
 ## Gravando mudança no respositório
-* Teste
 * Teste2
+
+Teste 2
+___
+Versionamento
