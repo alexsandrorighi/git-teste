@@ -9,3 +9,5 @@ ___
 Versionamento
 
 Git tem funcionado muito bem
+
+Uso do comando *restore*
