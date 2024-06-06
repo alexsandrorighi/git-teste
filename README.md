@@ -11,3 +11,6 @@ Versionamento
 Git tem funcionado muito bem
 
 Uso do comando *restore*
+
+
+comando git *pull*
